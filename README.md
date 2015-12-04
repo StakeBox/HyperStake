@@ -1,1 +1,1 @@
-HyperStake v1.1.1.3
+HyperStake v1.1.2
